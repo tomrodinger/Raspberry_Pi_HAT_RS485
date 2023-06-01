@@ -1,0 +1,11 @@
+- product: RPH1
+  versions:
+  - version: V4
+    type: pcb
+    web_page_template: https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/dark_template.html
+    picture: https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/main/Pictures/view1.jpg
+    description: This is a 3-in-1 UART to RS485 converter. Can be used as a Raspberry Pi Hat, can connect to Arduino, and can connect to a computer via USB. It contains a CP2102 chip.
+    schematic: https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/main/PCB/V4/schematic.pdf
+    user_manual: https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/V1/user-manual.pdf
+    tutorial:
+    github: https://github.com/tomrodinger/Raspberry_Pi_HAT_RS485/tree/main/PCB/V4
