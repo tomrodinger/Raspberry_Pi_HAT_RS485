@@ -1,0 +1,17 @@
+USB and UART to RS485 RPi hat project (uw-rs485_hat):
+Release date: 18-06-23 (DD-MM-YY)
+Version: V5
+
+Release files:
+*Checkfiles
+---Before submision checklist
+*Manufacturing
+---Assembly
+------BOM
+------Pick and place files
+---gerbers
+------Gerber files in X2 format
+*Schematic
+---Schematic in PDF format
+*Source
+---KiCAD source files
