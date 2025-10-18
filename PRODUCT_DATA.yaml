@@ -17,7 +17,7 @@
     - https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/refs/heads/main/Pictures/adapter/RS485_adapter_20250714153203.jpg
     - https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/refs/heads/main/Pictures/adapter_kit/RS485_adapter_kit_20250714153104.jpg
     description: This is a 3-in-1 UART to RS485 converter. Can be used as a Raspberry Pi Hat, can connect to Arduino, and can connect to a computer via USB. It contains a CP2102N chip.
-    schematic: https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/tree/main/PCB/V9/PCB/schematic/V9-index-schTop.pdf
+    schematic: https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/main/PCB/V9/schematic/V9-index-schTop.pdf
     user_manual: https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/V1/user-manual.pdf
     tutorial:
     github: https://github.com/tomrodinger/Raspberry_Pi_HAT_RS485/tree/main/PCB/V9
@@ -31,7 +31,7 @@
     - https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/refs/heads/main/Pictures/adapter/RS485_adapter_20250714153203.jpg
     - https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/refs/heads/main/Pictures/adapter_kit/RS485_adapter_kit_20250714153104.jpg
     description: This is a 3-in-1 UART to RS485 converter. Can be used as a Raspberry Pi Hat, can connect to Arduino, and can connect to a computer via USB. It contains a CP2102N chip.
-    schematic: https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/tree/main/PCB/1.1/schematic/1.1-index-schTop.pdf
+    schematic: https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/main/PCB/1.1/schematic/1.1-index-schTop.pdf
     user_manual: https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/V1/user-manual.pdf
     tutorial:
     github: https://github.com/tomrodinger/Raspberry_Pi_HAT_RS485/tree/main/PCB/1.1
@@ -43,7 +43,7 @@
     - https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/refs/heads/main/Pictures/adapter/RS485_adapter_20250714153203.jpg
     - https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/refs/heads/main/Pictures/adapter_kit/RS485_adapter_kit_20250714153104.jpg
     description: This is a 3-in-1 UART to RS485 converter. Can be used as a Raspberry Pi Hat, can connect to Arduino, and can connect to a computer via USB. It contains a CP2102N chip.
-    schematic: https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/tree/main/PCB/1.2/PCB/schematic/1.2-index-schTop.pdf
+    schematic: https://raw.githubusercontent.com/tomrodinger/Raspberry_Pi_HAT_RS485/main/PCB/1.2/schematic/1.2-index-schTop.pdf
     user_manual: https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/V1/user-manual.pdf
     tutorial:
     github: https://github.com/tomrodinger/Raspberry_Pi_HAT_RS485/tree/main/PCB/1.2
