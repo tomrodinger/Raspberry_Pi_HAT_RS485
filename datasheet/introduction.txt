@@ -1,0 +1,5 @@
+The RS485 Adapter is a friendly bridge between your controller and one or more servomotors. Plug the RS485 adapter to a Raspberry Pi (Zero, 3, or 4), an Arduino, ESP32 board, Mac, PC, or any serial device, and instantly speak to every motor on the line—no extra hubs required.
+
+The board automatically switches between transmit and receive so your code only has to send the command and listen for a response. It supports data rates up to 1 Mbps (typically the servomotors run at 230400 baud) and uses RS485 differential signaling to stay reliable across long cables and noisy environments. One master controller can address many devices on the same bus, which keeps builds tidy and demo setups compact.
+
+Both USB-C and Micro-USB ports are available for flexible cabling, and the board can also sit on a Raspberry Pi like a low-profile hat for wire-free stacking. The RS485 adapter is fully open source, so students and educators can study it or modify it as needed.

@@ -1,0 +1,10 @@
+Single adapter links a Raspberry Pi (Zero, 3, 4), Arduino, ESP32, Mac, PC, or any serial host to a daisy chain of smart servomotors.
+Automatically switches between transmit and receive, so code only sends a command and listens for the reply.
+Bright LEDs to indicate board power, transmit, and receive.
+Supports bit rates up to 1 Mbps (servomotors typically run at 230400 baud) for high performant demos and projects.
+RS485 differential signaling keeps communication relianble in electrically noisy labs, maker spaces, classrooms, or industrial settings.
+One master controller can address multiple servos on the shared bus, reducing wiring clutter on projects.
+Keeps cost of projects low. Only one adapter is needed for controlling multiple servomotors.
+Includes both USB-C and Micro-USB connectors to match the cables students already have on hand.
+Can plug directly onto a Raspberry Pi as a low-profile hat for wire-free stacking.
+Fully open source design so educators and students can review the schematic and adapt it for their builds.

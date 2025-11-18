@@ -1,0 +1,1 @@
+Please look at RS485_datasheet_plan.md to understand this project. Then follow the given request in the main prompt. Make sure to never declare the task done until any written new code is sufficiently tested and until the human has checked it and confirmed. Please always ask the human if it is working or not before going ahead to close the task.
