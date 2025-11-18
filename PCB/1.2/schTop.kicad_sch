@@ -11744,15 +11744,6 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "C261072"
-			(at 133.985 174.625 0)
-			(effects
-				(font
-					(size 0.889 0.889)
-				)
-				(hide yes)
-			)
-		)
 		(property "Digikey" "_"
 			(at 133.985 174.625 0)
 			(effects
@@ -11762,11 +11753,20 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C261072"
+		(property "LCSC" "C843271 "
 			(at 133.985 174.625 0)
 			(effects
 				(font
 					(size 0.889 0.889)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternative Part Number" "C261072"
+			(at 133.985 174.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
@@ -14687,7 +14687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_8-pin_SMT_hole_1.5mm"
+		(property "Footprint" "rs485RPihat:Connector_8-pin_SMT_hole_1.5mm"
 			(at 153.67 97.79 0)
 			(effects
 				(font
@@ -15604,7 +15604,7 @@
 		(at 161.29 54.61 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2860f8ba-cd8f-4926-a5fb-11f50876ca88")
@@ -16043,7 +16043,7 @@
 		(at 172.085 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2f1558e8-cbf1-444b-898d-1d5fbe27cf8b")
@@ -16391,7 +16391,7 @@
 		(at 161.29 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3b226ae5-6b02-4c87-a604-c1a2368f856a")
@@ -17611,7 +17611,7 @@
 		(at 161.29 57.15 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5bc99072-c8c0-421b-aa54-04b5a94f9951")
@@ -17813,7 +17813,7 @@
 		(at 161.29 31.75 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "61043fd6-0a6c-4bf1-ad54-204910773213")
@@ -18068,7 +18068,7 @@
 		(at 163.195 36.83 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "651c47b4-5b37-46dc-8041-52c88b7d2631")
@@ -20871,7 +20871,7 @@
 		(at 161.29 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a1da8c15-8b99-4571-9cfd-282ebe81016d")
@@ -23609,7 +23609,7 @@
 		(at 161.29 26.67 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d4d0ab31-7e6b-4737-85ec-25d9dafa932f")
@@ -23676,7 +23676,7 @@
 		(at 161.29 34.29 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d7a22467-a6b6-4eb8-beaf-127c6aa85cf3")

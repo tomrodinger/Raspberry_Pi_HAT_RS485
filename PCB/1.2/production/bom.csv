@@ -11,7 +11,7 @@ D5,0805,1,green,C2297
 D6,0805,1,red,C84256
 J1,usb-MicroXNJ,1,USB-Micro,C404969
 J2,Connector_8-pin_SMT_hole_1.5mm,1,TSM-108-01-T-SH-A-P-TR,C9900147851
-J3,con-WR-PHD-61031021821,1,Raspberry-Pi_2x5-Pin_Header,C261072
+J3,con-WR-PHD-61031021821,1,Raspberry-Pi_2x5-Pin_Header,C843271 
 J4,PinHeader_2x03_P2.54mm_Vertical_SMD,1,Conn_02x03_Odd_Even,C192301
 J5,USB_C_Receptacle_Palconn_UTC16-G,1,USB_C_Receptacle,C2765186
 "Q1, Q2, Q3",SOT-23,3,"BSS84AK,215",C127273
@@ -26,15 +26,6 @@ Q4,SOT-23,1,Q_NMOS_GSD, C8545
 "R23, R24",0603,2,75R,C4275
 R5,0603,1,220R,C22962
 "TP1, TP10, TP11, TP12, TP13, TP14, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9",testpoint_no_border,14,TestPoint,
-TP15,testpoint_small,1,RT,
-TP16,testpoint_small,1,CT,
-TP17,testpoint_small,1,DS,
-TP18,testpoint_small,1,DT,
-TP19,testpoint_small,1,DC,
-TP20,testpoint_small,1,0,
-TP21,testpoint_small,1,1,
-TP22,testpoint_small,1,2,
-TP23,testpoint_small,1,3,
 U1,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,1,CP2102N-A02-GQFN24R,C969151
 U2,SOIC-8_3.9x4.9mm_P1.27mm,1,LM393DR2G,C7955
 U5,SOIC-8_3.9x4.9mm_P1.27mm,1,SP3485EN,C8963
